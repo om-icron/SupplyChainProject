@@ -8,6 +8,3 @@ This library requires Python 3.5+ in order to function.
 
 For the RL algorithms, Ray 1.0.0 is required.
 
-
-- `NetworkManagement-v1`: multi-echelon supply chain network problem with backlogs from [Perez et al.](https://www.mdpi.com/2227-9717/9/1/102).
-- `NetworkManagement-v2`: multi-echelon supply chain network problem without backlogs from [Perez et al.](https://www.mdpi.com/2227-9717/9/1/102).
