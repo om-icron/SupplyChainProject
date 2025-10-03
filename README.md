@@ -1,4 +1,4 @@
-# SupplyChainv0-gym
+# SupplyChainProject-one
 Reinforcement Learning for Optimal inventory policy
 Environments for Supply chain
 
